@@ -16,7 +16,7 @@ _map/js/ne_110m_admin_0_countries.topojson",
  },
  {
  "data": {
- "url": "https://raw.githubusercontent.com/williamamccalum/FIT3179/data/earthquake.csv"
+ "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/data/earthquake.csv"
  },
  "encoding": {
  "longitude": {"field": "longitude", "type": "quantitative"},
