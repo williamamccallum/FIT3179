@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Average Education by Gender (2010)",
+  "description": "A ranged dot plot that uses 'layer' to variances in education between genders for various countries",
+  "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/HW/Education_Summary.csv"},
+  "encoding": {
+    "x": {
+      "field": "Education",
+      "type": "quantitative",
+      "title": "Education (years)"
+    },
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country",
+      "axis": {
+        "offset": 5,
+        "ticks": false,
+        "minExtent": 70,
+        "domain": false
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": {"value": "#db646f"}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true
+      },
+      "encoding": {
+        "color": {
+          "field": "gender",
+          "type": "ordinal",
+          "scale": {
+            "domain": ["Male", "Female"],
+            "range": ["#e6959c", "#911a24"]
+          },
+          "title": "Year"
+        },
+        "size": {"value": 100},
+        "opacity": {"value": 1}
+      }
+    }
+  ]
+}
