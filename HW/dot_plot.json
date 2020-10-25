@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
-  "height": 2000,
   "title": "Average Education by Gender (2010)",
   "description": "A ranged dot plot that uses 'layer' to variances in education between genders for various countries",
   "data": {
