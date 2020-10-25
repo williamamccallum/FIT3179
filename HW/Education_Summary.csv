@@ -1,0 +1,565 @@
+﻿Gender,Education,Life Expectancy,Avg. Income,Country,Continent
+Total,9.5,,,Afghanistan,Asia
+Male,11.6,,,Afghanistan,Asia
+Female,7.2,,,Afghanistan,Asia
+Total,13.1,,,Albania,Europe
+Male,13,,,Albania,Europe
+Female,13.6,,,Albania,Europe
+Total,14,,,Algeria,Africa
+Male,13.8,,,Algeria,Africa
+Female,14.2,,,Algeria,Africa
+Total,11.7,,,Andorra,Europe
+Male,,,,Andorra,Europe
+Female,,,,Andorra,Europe
+Total,8.6,,,Angola,Africa
+Male,9.9,,,Angola,Africa
+Female,7.5,,,Angola,Africa
+Total,12.9,,,Antigua and Barbuda,North America
+Male,12.8,,,Antigua and Barbuda,North America
+Female,13.1,,,Antigua and Barbuda,North America
+Total,17.1,,,Argentina,South America
+Male,16.1,,,Argentina,South America
+Female,18.1,,,Argentina,South America
+Total,13.1,,,Armenia,Europe
+Male,12.8,,,Armenia,Europe
+Female,13.4,,,Armenia,Europe
+Total,19.8,,,Australia,Oceania
+Male,19.2,,,Australia,Oceania
+Female,20.3,,,Australia,Oceania
+Total,16,,,Austria,Europe
+Male,15.4,,,Austria,Europe
+Female,15.9,,,Austria,Europe
+Total,11.2,,,Azerbaijan,Europe
+Male,11.5,,,Azerbaijan,Europe
+Female,11,,,Azerbaijan,Europe
+Total,12.5,,,Bahamas,North America
+Male,..,,,Bahamas,North America
+Female,..,,,Bahamas,North America
+Total,13.5,,,Bahrain,Asia
+Male,12.9,,,Bahrain,Asia
+Female,14.1,,,Bahrain,Asia
+Total,9.2,,,Bangladesh,Asia
+Male,9.1,,,Bangladesh,Asia
+Female,9.4,,,Bangladesh,Asia
+Total,15.5,,,Barbados,North America
+Male,14.1,,,Barbados,North America
+Female,16.8,,,Barbados,North America
+Total,15.5,,,Belarus,Europe
+Male,14.9,,,Belarus,Europe
+Female,16.1,,,Belarus,Europe
+Total,19.1,,,Belgium,Europe
+Male,18.1,,,Belgium,Europe
+Female,20,,,Belgium,Europe
+Total,12.4,,,Belize,North America
+Male,12.2,,,Belize,North America
+Female,12.7,,,Belize,North America
+Total,11,,,Benin,Africa
+Male,12.3,,,Benin,Africa
+Female,9,,,Benin,Africa
+Total,11.5,,,Bhutan,Asia
+Male,11.5,,,Bhutan,Asia
+Female,11.6,,,Bhutan,Asia
+Total,13.8,,,Bolivia,South America
+Male,14.1,,,Bolivia,South America
+Female,13.5,,,Bolivia,South America
+Total,13.4,,,Bosnia and Herzegovina,Europe
+Male,13,,,Bosnia and Herzegovina,Europe
+Female,13.8,,,Bosnia and Herzegovina,Europe
+Total,12.3,,,Botswana,Africa
+Male,12.2,,,Botswana,Africa
+Female,12.4,,,Botswana,Africa
+Total,14,,,Brazil,South America
+Male,13.5,,,Brazil,South America
+Female,14.4,,,Brazil,South America
+Total,14.1,,,Brunei Darussalam,Asia
+Male,13.9,,,Brunei Darussalam,Asia
+Female,14.4,,,Brunei Darussalam,Asia
+Total,14.4,,,Bulgaria,Europe
+Male,14.2,,,Bulgaria,Europe
+Female,14.7,,,Bulgaria,Europe
+Total,6.7,,,Burkina Faso,Africa
+Male,7.2,,,Burkina Faso,Africa
+Female,6.2,,,Burkina Faso,Africa
+Total,10.5,,,Burundi,Africa
+Male,11,,,Burundi,Africa
+Female,9.9,,,Burundi,Africa
+Total,12.3,,,Cabo Verde,Africa
+Male,12.4,,,Cabo Verde,Africa
+Female,12.7,,,Cabo Verde,Africa
+Total,10.7,,,Cambodia,Asia
+Male,11.3,,,Cambodia,Asia
+Female,10.2,,,Cambodia,Asia
+Total,7.4,,,Cameroon,Africa
+Male,11.3,,,Cameroon,Africa
+Female,9.7,,,Cameroon,Africa
+Total,15.1,,,Canada,North America
+Male,14.8,,,Canada,North America
+Female,15.7,,,Canada,North America
+Total,6.8,,,Central African Republic,Africa
+Male,8.1,,,Central African Republic,Africa
+Female,5.5,,,Central African Republic,Africa
+Total,6.7,,,Chad,Africa
+Male,8.1,,,Chad,Africa
+Female,5.2,,,Chad,Africa
+Total,15.2,,,Chile,South America
+Male,15.3,,,Chile,South America
+Female,15.5,,,Chile,South America
+Total,12.9,,,China,Asia
+Male,12.8,,,China,Asia
+Female,12.7,,,China,Asia
+Total,8.5,,,Co´te d'Ivoire,South America
+Male,9.8,,,Co´te d'Ivoire,South America
+Female,7.1,,,Co´te d'Ivoire,South America
+Total,14.3,,,Colombia,Africa
+Male,14,,,Colombia,Africa
+Female,14.6,,,Colombia,Africa
+Total,10.6,,,Comoros,Africa
+Male,11,,,Comoros,Africa
+Female,10.2,,,Comoros,Africa
+Total,10.7,,,Congo,Africa
+Male,11,,,Congo,Africa
+Female,10.4,,,Congo,Africa
+Total,9.2,,,"Congo, Rep.",North America
+Male,10.1,,,"Congo, Rep.",North America
+Female,7.5,,,"Congo, Rep.",North America
+Total,13.4,,,Costa Rica,Europe
+Male,13.9,,,Costa Rica,Europe
+Female,14.4,,,Costa Rica,Europe
+Total,14.4,,,Croatia,North America
+Male,13.8,,,Croatia,North America
+Female,15.1,,,Croatia,North America
+Total,16.4,,,Cuba,Europe
+Male,15.3,,,Cuba,Europe
+Female,17.7,,,Cuba,Europe
+Total,13.8,,,Cyprus,Europe
+Male,13.9,,,Cyprus,Europe
+Female,13.8,,,Cyprus,Europe
+Total,16,,,Czech Republic,Africa
+Male,15.6,,,Czech Republic,Africa
+Female,16.6,,,Czech Republic,Africa
+Total,16.9,,,Denmark,Europe
+Male,16.3,,,Denmark,Europe
+Female,17.6,,,Denmark,Europe
+Total,5.9,,,Djibouti,Africa
+Male,6.4,,,Djibouti,Africa
+Female,5.4,,,Djibouti,Africa
+Total,13.6,,,Dominica,North America
+Male,,,,Dominica,North America
+Female,,,,Dominica,North America
+Total,13,,,Dominican Republic,North America
+Male,12.5,,,Dominican Republic,North America
+Female,13.5,,,Dominican Republic,North America
+Total,13.2,,,Ecuador,South America
+Male,13,,,Ecuador,South America
+Female,13.5,,,Ecuador,South America
+Total,12,,,Egypt,Africa
+Male,12.2,,,Egypt,Africa
+Female,11.7,,,Egypt,Africa
+Total,12.5,,,El Salvador,North America
+Male,12.7,,,El Salvador,North America
+Female,12.3,,,El Salvador,North America
+Total,9.2,,,Equatorial Guinea,Africa
+Male,..,,,Equatorial Guinea,Africa
+Female,..,,,Equatorial Guinea,Africa
+Total,5.4,,,Eritrea,Africa
+Male,6,,,Eritrea,Africa
+Female,4.8,,,Eritrea,Africa
+Total,16.4,,,Estonia,Europe
+Male,15.4,,,Estonia,Europe
+Female,17.4,,,Estonia,Europe
+Total,11.2,,,Eswatini,Africa
+Male,11.6,,,Eswatini,Africa
+Female,10.7,,,Eswatini,Africa
+Total,8.2,,,Ethiopia,Africa
+Male,8.8,,,Ethiopia,Africa
+Female,7.6,,,Ethiopia,Africa
+Total,14.6,,,Fiji,Oceania
+Male,..,,,Fiji,Oceania
+Female,..,,,Fiji,Oceania
+Total,16.9,,,Finland,Europe
+Male,16.3,,,Finland,Europe
+Female,17.5,,,Finland,Europe
+Total,15.1,,,France,Europe
+Male,14.8,,,France,Europe
+Female,15.5,,,France,Europe
+Total,12.5,,,Gabon,Africa
+Male,12.6,,,Gabon,Africa
+Female,12.4,,,Gabon,Africa
+Total,8.7,,,Gambia,Africa
+Male,8.7,,,Gambia,Africa
+Female,8.6,,,Gambia,Africa
+Total,13.3,,,Georgia,Europe
+Male,13.2,,,Georgia,Europe
+Female,13.4,,,Georgia,Europe
+Total,16.8,,,Germany,Europe
+Male,17,,,Germany,Europe
+Female,16.6,,,Germany,Europe
+Total,10.9,,,Ghana,Africa
+Male,11.3,,,Ghana,Africa
+Female,10.4,,,Ghana,Africa
+Total,16.2,,,Greece,Europe
+Male,16.3,,,Greece,Europe
+Female,16.1,,,Greece,Europe
+Total,15.9,,,Grenada,North America
+Male,15.5,,,Grenada,North America
+Female,16.3,,,Grenada,North America
+Total,10.5,,,Guatemala,North America
+Male,10.8,,,Guatemala,North America
+Female,10.3,,,Guatemala,North America
+Total,8.4,,,Guinea,Africa
+Male,9.8,,,Guinea,Africa
+Female,7.1,,,Guinea,Africa
+Total,9.9,,,Guinea-Bissau,Africa
+Male,,,,Guinea-Bissau,Africa
+Female,,,,Guinea-Bissau,Africa
+Total,10.9,,,Guyana,South America
+Male,10.6,,,Guyana,South America
+Female,11.3,,,Guyana,South America
+Total,8.7,,,Haiti,North America
+Male,9,,,Haiti,North America
+Female,8.4,,,Haiti,North America
+Total,10.7,,,Honduras,North America
+Male,10.3,,,Honduras,North America
+Female,11.1,,,Honduras,North America
+Total,15.3,,,"Hong Kong SAR, China",Asia
+Male,15.1,,,"Hong Kong SAR, China",Asia
+Female,15.3,,,"Hong Kong SAR, China",Asia
+Total,15.3,,,Hungary,Europe
+Male,14.9,,,Hungary,Europe
+Female,15.6,,,Hungary,Europe
+Total,18.5,,,Iceland,Europe
+Male,17.3,,,Iceland,Europe
+Female,19.8,,,Iceland,Europe
+Total,10.8,,,India,Asia
+Male,11,,,India,Asia
+Female,10.5,,,India,Asia
+Total,12.2,,,Indonesia,Asia
+Male,12.1,,,Indonesia,Asia
+Female,12.3,,,Indonesia,Asia
+Total,13.1,,,"Iran, Islamic Rep.",Asia
+Male,13.1,,,"Iran, Islamic Rep.",Asia
+Female,13,,,"Iran, Islamic Rep.",Asia
+Total,10.4,,,Iraq,Asia
+Male,11.9,,,Iraq,Asia
+Female,9.9,,,Iraq,Asia
+Total,17.5,,,Ireland,Europe
+Male,18.3,,,Ireland,Europe
+Female,18.6,,,Ireland,Europe
+Total,15.8,,,Israel,Asia
+Male,15.4,,,Israel,Asia
+Female,16.3,,,Israel,Asia
+Total,16.4,,,Italy,Europe
+Male,15.9,,,Italy,Europe
+Female,16.8,,,Italy,Europe
+Total,14.2,,,Jamaica,North America
+Male,13.3,,,Jamaica,North America
+Female,15,,,Jamaica,North America
+Total,15,,,Japan,Asia
+Male,15.2,,,Japan,Asia
+Female,14.9,,,Japan,Asia
+Total,12.8,,,Jordan,Asia
+Male,12.6,,,Jordan,Asia
+Female,13.1,,,Jordan,Asia
+Total,14.4,,,Kazakhstan,Asia
+Male,14.1,,,Kazakhstan,Asia
+Female,14.7,,,Kazakhstan,Asia
+Total,10.6,,,Kenya,Africa
+Male,10.8,,,Kenya,Africa
+Female,10.2,,,Kenya,Africa
+Total,11.9,,,Kiribati,Oceania
+Male,11.5,,,Kiribati,Oceania
+Female,12.3,,,Kiribati,Oceania
+Total,16.8,,,"Korea, Dem. People's Rep.",Asia
+Male,0,,,"Korea, Dem. People's Rep.",Asia
+Female,0,,,"Korea, Dem. People's Rep.",Asia
+Total,,,,,
+Male,17.6,,,,
+Female,16,,,,
+Total,13.4,,,Kuwait,Asia
+Male,12.7,,,Kuwait,Asia
+Female,14.1,,,Kuwait,Asia
+Total,12.4,,,Kyrgyzstan,Asia
+Male,12.2,,,Kyrgyzstan,Asia
+Female,12.7,,,Kyrgyzstan,Asia
+Total,10,,,Lao PDR,Asia
+Male,10.6,,,Lao PDR,Asia
+Female,9.3,,,Lao PDR,Asia
+Total,15.6,,,Latvia,Europe
+Male,14.7,,,Latvia,Europe
+Female,16.6,,,Latvia,Europe
+Total,13.2,,,Lebanon,Asia
+Male,13.4,,,Lebanon,Asia
+Female,13,,,Lebanon,Asia
+Total,11,,,Lesotho,Africa
+Male,10.5,,,Lesotho,Africa
+Female,11.4,,,Lesotho,Africa
+Total,9.5,,,Liberia,Africa
+Male,10.4,,,Liberia,Africa
+Female,8.6,,,Liberia,Africa
+Total,14,,,Libya,Africa
+Male,13.8,,,Libya,Africa
+Female,14.3,,,Libya,Africa
+Total,14.5,,,Liechtenstein,Europe
+Male,15.6,,,Liechtenstein,Europe
+Female,13.4,,,Liechtenstein,Europe
+Total,16.8,,,Lithuania,Europe
+Male,15.9,,,Lithuania,Europe
+Female,17.5,,,Lithuania,Europe
+Total,13.9,,,Luxembourg,Europe
+Male,13.9,,,Luxembourg,Europe
+Female,14,,,Luxembourg,Europe
+Total,10.2,,,Madagascar,Africa
+Male,10.4,,,Madagascar,Africa
+Female,10,,,Madagascar,Africa
+Total,10.3,,,Malawi,Africa
+Male,10.3,,,Malawi,Africa
+Female,10.2,,,Malawi,Africa
+Total,13,,,Malaysia,Asia
+Male,12.6,,,Malaysia,Asia
+Female,13.3,,,Malaysia,Asia
+Total,11.9,,,Maldives,Asia
+Male,11.8,,,Maldives,Asia
+Female,11.9,,,Maldives,Asia
+Total,7.6,,,Mali,Africa
+Male,8.6,,,Mali,Africa
+Female,6.6,,,Mali,Africa
+Total,15.3,,,Malta,Europe
+Male,15.4,,,Malta,Europe
+Female,15.2,,,Malta,Europe
+Total,7.6,,,Mauritania,Africa
+Male,7.7,,,Mauritania,Africa
+Female,7.6,,,Mauritania,Africa
+Total,14.1,,,Mauritius,Africa
+Male,13.8,,,Mauritius,Africa
+Female,14.4,,,Mauritius,Africa
+Total,12.8,,,Mexico,North America
+Male,12.6,,,Mexico,North America
+Female,13,,,Mexico,North America
+Total,11.2,,,"Micronesia, Fed. Sts.",Oceania
+Male,,,,"Micronesia, Fed. Sts.",Oceania
+Female,,,,"Micronesia, Fed. Sts.",Oceania
+Total,11.8,,,Moldova,Europe
+Male,11.5,,,Moldova,Europe
+Female,12.1,,,Moldova,Europe
+Total,14.6,,,Mongolia,Asia
+Male,13.9,,,Mongolia,Asia
+Female,15.3,,,Mongolia,Asia
+Total,15.1,,,Montenegro,Europe
+Male,14.8,,,Montenegro,Europe
+Female,15.4,,,Montenegro,Europe
+Total,11.1,,,Morocco,Africa
+Male,11.6,,,Morocco,Africa
+Female,10.6,,,Morocco,Africa
+Total,9.6,,,Mozambique,Africa
+Male,10.3,,,Mozambique,Africa
+Female,8.9,,,Mozambique,Africa
+Total,9.2,,,Myanmar,Asia
+Male,..,,,Myanmar,Asia
+Female,..,,,Myanmar,Asia
+Total,11.9,,,Namibia,Africa
+Male,11.8,,,Namibia,Africa
+Female,12,,,Namibia,Africa
+Total,12,,,Nepal,Asia
+Male,12.1,,,Nepal,Asia
+Female,11.9,,,Nepal,Asia
+Total,17,,,Netherlands,Europe
+Male,16.9,,,Netherlands,Europe
+Female,17.1,,,Netherlands,Europe
+Total,19.8,,,New Zealand,Oceania
+Male,18.9,,,New Zealand,Oceania
+Female,20.5,,,New Zealand,Oceania
+Total,11.5,,,Nicaragua,North America
+Male,11.3,,,Nicaragua,North America
+Female,11.8,,,Nicaragua,North America
+Total,4.7,,,Niger,Africa
+Male,5.4,,,Niger,Africa
+Female,4.1,,,Niger,Africa
+Total,8.4,,,Nigeria,Africa
+Male,8.8,,,Nigeria,Africa
+Female,7.9,,,Nigeria,Africa
+Total,12.9,,,North Macedonia,Europe
+Male,12.9,,,North Macedonia,Europe
+Female,12.9,,,North Macedonia,Europe
+Total,17.5,,,Norway,Europe
+Male,16.9,,,Norway,Europe
+Female,18.3,,,Norway,Europe
+Total,13.4,,,Oman,Asia
+Male,13.3,,,Oman,Asia
+Female,13.4,,,Oman,Asia
+Total,7.5,,,Pakistan,Asia
+Male,8.2,,,Pakistan,Asia
+Female,6.8,,,Pakistan,Asia
+Total,14.2,,,Palau,Oceania
+Male,13.6,,,Palau,Oceania
+Female,14.8,,,Palau,Oceania
+Total,12.8,,,Panama,North America
+Male,12.4,,,Panama,North America
+Female,13.3,,,Panama,North America
+Total,9.8,,,Papua New Guinea,Oceania
+Male,..,,,Papua New Guinea,Oceania
+Female,..,,,Papua New Guinea,Oceania
+Total,12.3,,,Paraguay,South America
+Male,12,,,Paraguay,South America
+Female,12.6,,,Paraguay,South America
+Total,13.4,,,Peru,South America
+Male,13.4,,,Peru,South America
+Female,13.5,,,Peru,South America
+Total,11.7,,,Philippines,Asia
+Male,11.5,,,Philippines,Asia
+Female,11.9,,,Philippines,Asia
+Total,15.3,,,Poland,Europe
+Male,14.6,,,Poland,Europe
+Female,16.1,,,Poland,Europe
+Total,16,,,Portugal,Europe
+Male,15.8,,,Portugal,Europe
+Female,16.3,,,Portugal,Europe
+Total,12.8,,,Qatar,Asia
+Male,12.3,,,Qatar,Asia
+Female,13.4,,,Qatar,Asia
+Total,15.4,,,Romania,Europe
+Male,14.9,,,Romania,Europe
+Female,16,,,Romania,Europe
+Total,14,,,Russian Federation,Europe
+Male,13.5,,,Russian Federation,Europe
+Female,14.6,,,Russian Federation,Europe
+Total,11.1,,,Rwanda,Africa
+Male,11.1,,,Rwanda,Africa
+Female,11.2,,,Rwanda,Africa
+Total,13,,,Saint Kitts and Nevis,North America
+Male,12.6,,,Saint Kitts and Nevis,North America
+Female,13.3,,,Saint Kitts and Nevis,North America
+Total,13.1,,,Saint Lucia,North America
+Male,12.8,,,Saint Lucia,North America
+Female,13.5,,,Saint Lucia,North America
+Total,13.5,,,Saint Vincent and the Grenadines,North America
+Male,13.3,,,Saint Vincent and the Grenadines,North America
+Female,13.7,,,Saint Vincent and the Grenadines,North America
+Total,12.9,,,Samoa,Oceania
+Male,11.9,,,Samoa,Oceania
+Female,12.7,,,Samoa,Oceania
+Total,10.6,,,São Tomé and Principe,Africa
+Male,10.6,,,São Tomé and Principe,Africa
+Female,10.5,,,São Tomé and Principe,Africa
+Total,14.3,,,Saudi Arabia,Asia
+Male,14.6,,,Saudi Arabia,Asia
+Female,13.9,,,Saudi Arabia,Asia
+Total,8,,,Senegal,Africa
+Male,8.1,,,Senegal,Africa
+Female,7.8,,,Senegal,Africa
+Total,13.5,,,Serbia,Europe
+Male,13.2,,,Serbia,Europe
+Female,13.9,,,Serbia,Europe
+Total,13.4,,,Seychelles,Africa
+Male,12.8,,,Seychelles,Africa
+Female,13.9,,,Seychelles,Africa
+Total,8.9,,,Sierra Leone,Africa
+Male,9.6,,,Sierra Leone,Africa
+Female,8.4,,,Sierra Leone,Africa
+Total,15.2,,,Singapore,Asia
+Male,15.1,,,Singapore,Asia
+Female,15.3,,,Singapore,Asia
+Total,15,,,Slovakia,Europe
+Male,14.4,,,Slovakia,Europe
+Female,15.6,,,Slovakia,Europe
+Total,17.1,,,Slovenia,Europe
+Male,16.3,,,Slovenia,Europe
+Female,17.9,,,Slovenia,Europe
+Total,10.7,,,Solomon Islands,Oceania
+Male,11.1,,,Solomon Islands,Oceania
+Female,10.2,,,Solomon Islands,Oceania
+Total,12.8,,,South Africa,Africa
+Male,12.3,,,South Africa,Africa
+Female,13.4,,,South Africa,Africa
+Total,4.9,,,South Sudan,Africa
+Male,6.1,,,South Sudan,Africa
+Female,3.7,,,South Sudan,Africa
+Total,16.8,,,Spain,Europe
+Male,16.4,,,Spain,Europe
+Female,17.3,,,Spain,Europe
+Total,13.6,,,Sri Lanka,Asia
+Male,13.4,,,Sri Lanka,Asia
+Female,13.8,,,Sri Lanka,Asia
+Total,7.3,,,Sudan,Africa
+Male,7.6,,,Sudan,Africa
+Female,6.9,,,Sudan,Africa
+Total,12.2,,,Suriname,South America
+Male,11.7,,,Suriname,South America
+Female,12.7,,,Suriname,South America
+Total,15.9,,,Sweden,Europe
+Male,15.2,,,Sweden,Europe
+Female,16.7,,,Sweden,Europe
+Total,15.6,,,Switzerland,Europe
+Male,15.7,,,Switzerland,Europe
+Female,15.5,,,Switzerland,Europe
+Total,11.8,,,Syrian Arab Republic,Asia
+Male,12,,,Syrian Arab Republic,Asia
+Female,11.6,,,Syrian Arab Republic,Asia
+Total,11.1,,,Tajikistan,Asia
+Male,11.9,,,Tajikistan,Asia
+Female,10.2,,,Tajikistan,Asia
+Total,8.8,,,Tanzania,Africa
+Male,9.1,,,Tanzania,Africa
+Female,8.6,,,Tanzania,Africa
+Total,13.3,,,Thailand,Asia
+Male,12.8,,,Thailand,Asia
+Female,13.7,,,Thailand,Asia
+Total,12.4,,,Timor-Leste,Oceania
+Male,12.8,,,Timor-Leste,Oceania
+Female,12,,,Timor-Leste,Oceania
+Total,11.5,,,Togo,Africa
+Male,12.4,,,Togo,Africa
+Female,9.2,,,Togo,Africa
+Total,13.2,,,Tonga,Oceania
+Male,14.1,,,Tonga,Oceania
+Female,14.7,,,Tonga,Oceania
+Total,12.7,,,Trinidad and Tobago,North America
+Male,12.2,,,Trinidad and Tobago,North America
+Female,13,,,Trinidad and Tobago,North America
+Total,14.5,,,Tunisia,Africa
+Male,14,,,Tunisia,Africa
+Female,15,,,Tunisia,Africa
+Total,13.8,,,Turkey,Asia
+Male,14.3,,,Turkey,Asia
+Female,13.4,,,Turkey,Asia
+Total,10.6,,,Turkmenistan,Africa
+Male,10.9,,,Turkmenistan,Africa
+Female,10.4,,,Turkmenistan,Africa
+Total,11,,,Uganda,Europe
+Male,11.7,,,Uganda,Europe
+Female,10.8,,,Uganda,Europe
+Total,14.8,,,Ukraine,Asia
+Male,14.4,,,Ukraine,Asia
+Female,15.1,,,Ukraine,Asia
+Total,12.2,,,United Arab Emirates,Europe
+Male,..,,,United Arab Emirates,Europe
+Female,..,,,United Arab Emirates,Europe
+Total,16.4,,,United Kingdom,Europe
+Male,16,,,United Kingdom,Europe
+Female,16.8,,,United Kingdom,Europe
+Total,16.2,,,United States,North America
+Male,15.7,,,United States,North America
+Female,17.5,,,United States,North America
+Total,14.7,,,Uruguay,South America
+Male,13.8,,,Uruguay,South America
+Female,15.6,,,Uruguay,South America
+Total,11.4,,,Uzbekistan,Asia
+Male,11.6,,,Uzbekistan,Asia
+Female,11.3,,,Uzbekistan,Asia
+Total,10.8,,,Vanuatu,Oceania
+Male,11.1,,,Vanuatu,Oceania
+Female,10.4,,,Vanuatu,Oceania
+Total,13.6,,,Venezuela,South America
+Male,12.6,,,Venezuela,South America
+Female,14.7,,,Venezuela,South America
+Total,12,,,Vietnam,Asia
+Male,12.1,,,Vietnam,Asia
+Female,12.1,,,Vietnam,Asia
+Total,8.6,,,Yemen,Asia
+Male,9.9,,,Yemen,Asia
+Female,7.2,,,Yemen,Asia
+Total,11,,,Zambia,Africa
+Male,11.5,,,Zambia,Africa
+Female,10.6,,,Zambia,Africa
+Total,10.1,,,Zimbabwe,Africa
+Male,10.3,,,Zimbabwe,Africa
+Female,10,,,Zimbabwe,Africa
