@@ -13,12 +13,19 @@
 </head>
 <body>
   
+<div id="bubble_plot"></div>
+
 <div id="dot_plot"></div>
 
 <script type="text/javascript">
 
- var spec = "https://williamamccallum.github.io/FIT3179/HW/dot_plot.json";
-  vegaEmbed('#dot_plot', spec).then(function(result) {
+ var spec1 = "https://williamamccallum.github.io/FIT3179/HW/bubble_plot.json";
+  vegaEmbed('#bubble_plot', spec1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+  var spec2 = "https://williamamccallum.github.io/FIT3179/HW/dot_plot.json";
+  vegaEmbed('#dot_plot', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
