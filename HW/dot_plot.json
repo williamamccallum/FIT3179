@@ -4,7 +4,7 @@
   "height": 600,
   "title": "Average Education by Gender (2010)",
   "description": "A ranged dot plot that uses 'layer' to variances in education between genders for various countries",
-  "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/HW/Education_Summary.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/HW/Education_Summary.csv"},
   "encoding": {
     "x": {
       "field": "Education",
