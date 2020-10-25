@@ -7,6 +7,14 @@
   "data": {
     "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/HW/Education_Summary.csv"
   },
+  "transform": [
+    {
+      "filter": {
+        "field": "Country",
+        "oneOf": ["Australia", "China", "United States", "United Kingdom", "Brazil", "South Sudan", "Japan", "Singapore", "New Zealand", "Peru", "Finland","Gabon", "Spain", "Sweden", "Ukraine", "Rwanda", "Djibouti", "Mexico", "India"]
+      }
+    }
+  ],
   "encoding": {
     "x": {
       "field": "Education",
