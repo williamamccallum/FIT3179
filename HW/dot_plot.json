@@ -34,30 +34,6 @@
           }
         ]
       }
-    },
-    {
-      "mark": {"type": "point", "filled": true},
-      "encoding": {
-        "color": {
-          "field": "gender",
-          "type": "nominal",
-          "scale": {
-            "domain": ["Male", "Female"],
-            "range": ["#3E90FC", "#F04987"]
-          },
-          "title": "Gender"
-        },
-        "size": {"value": 100},
-        "opacity": {"value": 1},
-        "tooltip": [
-          {"field": "Country", "type": "nominal"},
-          {"field": "gender", "type": "nominal"},
-          {  "field": "Education",
-            "type": "quantitative",
-            "format": ".2f"
-          }
-        ]
-      }
     }
   ]
 }
