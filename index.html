@@ -6,15 +6,20 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+<style>
+body {
+  background-color: coral;
+}
+</style>
 </head>
 <body>
 
-<div id="vis"></div>
+<div id="map"></div>
 
 <script type="text/javascript">
   
-  var spec = "https://williamamccallum.github.io/FIT3179/Test.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  var spec = "https://williamamccallum.github.io/FIT3179/js/map.json";
+  vegaEmbed('#map', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
