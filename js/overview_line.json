@@ -1,0 +1,44 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Years.csv"},
+  "title": "Avg. Years of Education by Country",
+  "width": 840,
+  "height": 500,
+  "mark": {"type" : "line", "tooltip" : {"content": "data"}},
+  "transform": [
+    {"filter": {"field": "Country", "oneOf" : ["Australia", "Greece", "Japan", "China",
+    "United Kingdom", "Finland", "New Zealand", "Germany", "Gambia", "Mozambique",
+    "Canada", "Mexico", "Brazil"
+    ]}}
+  ],
+  "selection": {
+      "hover": {
+        "type": "single",
+        "on": "mouseover",
+        "empty": "all",
+        "fields": ["Country"],
+        "init": {"Country": "Australia"}
+      }
+    },
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative"},
+    "y": {"field": "Education", "type": "quantitative", "title" : "Avg. Years of Education"},
+    "color": {
+      "condition": {
+        "selection": "hover",
+        "field":"Country",
+        "type":"nominal",
+        "legend": null
+      },
+      "value": "grey"
+    },
+    "opacity": {
+      "condition": {
+        "selection": "hover",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  }
+}
