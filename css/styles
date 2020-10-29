@@ -1,3 +1,11 @@
+#title {
+  border-radius: 50px;
+  background: #F01F9C;
+  padding: 0px; 
+  width: 840px;
+  height: 200px; 
+}
+
 #map {
 	top:100px;
 	bottom: 100px; 
