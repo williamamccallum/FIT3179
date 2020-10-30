@@ -1,0 +1,565 @@
+﻿Gender,Education,Life Expectancy,Avg. Income,Country,Continent
+Total,9.50,61.00,540,Afghanistan,Asia
+Male,11.60,59.70,2353,Afghanistan,Asia
+Female,7.20,62.50,2353,Afghanistan,Asia
+Total,13.10,76.60,5240,Albania,Europe
+Male,13.00,74.10,12176,Albania,Europe
+Female,13.60,79.30,12176,Albania,Europe
+Total,14.00,74.90,3970,Algeria,Africa
+Male,13.80,73.80,22062,Algeria,Africa
+Female,14.20,76.20,22062,Algeria,Africa
+Total,11.70,80.80,0,Andorra,Europe
+Male,,,0,Andorra,Europe
+Female,,,0,Andorra,Europe
+Total,8.60,55.40,3050,Angola,Africa
+Male,9.90,52.80,6734,Angola,Africa
+Female,7.50,58.00,6734,Angola,Africa
+Total,12.90,75.80,16660,Antigua and Barbuda,North America
+Male,12.80,74.40,0,Antigua and Barbuda,North America
+Female,13.10,77.10,0,Antigua and Barbuda,North America
+Total,17.10,75.30,11200,Argentina,South America
+Male,16.10,71.80,24678,Argentina,South America
+Female,18.10,78.60,24678,Argentina,South America
+Total,13.10,73.30,4680,Armenia,Europe
+Male,12.80,70.00,10150,Armenia,Europe
+Female,13.40,76.40,10150,Armenia,Europe
+Total,19.80,81.90,54910,Australia,Oceania
+Male,19.20,79.80,48252,Australia,Oceania
+Female,20.30,84.10,48252,Australia,Oceania
+Total,16.00,80.60,51300,Austria,Europe
+Male,15.40,77.90,54650,Austria,Europe
+Female,15.90,83.20,54650,Austria,Europe
+Total,11.20,70.90,4480,Azerbaijan,Europe
+Male,11.50,67.80,20475,Azerbaijan,Europe
+Female,11.00,74.10,20475,Azerbaijan,Europe
+Total,12.50,72.10,31780,Bahamas,North America
+Male,,69.60,35026,Bahamas,North America
+Female,,74.60,35026,Bahamas,North America
+Total,13.50,76.10,22110,Bahrain,Asia
+Male,12.90,75.30,43083,Bahrain,Asia
+Female,14.10,77.10,43083,Bahrain,Asia
+Total,9.20,69.90,1940,Bangladesh,Asia
+Male,9.10,68.70,4174,Bangladesh,Asia
+Female,9.40,71.30,4174,Bangladesh,Asia
+Total,15.50,78.40,17380,Barbados,North America
+Male,14.10,76.80,18592,Barbados,North America
+Female,16.80,79.80,18592,Barbados,North America
+Total,15.50,70.80,6280,Belarus,Europe
+Male,14.90,65.10,19578,Belarus,Europe
+Female,16.10,76.60,19578,Belarus,Europe
+Total,19.10,80.10,47350,Belgium,Europe
+Male,18.10,77.40,52542,Belgium,Europe
+Female,20.00,82.70,52542,Belgium,Europe
+Total,12.40,72.10,4450,Belize,North America
+Male,12.20,69.60,9421,Belize,North America
+Female,12.70,74.70,9421,Belize,North America
+Total,11.00,59.30,1250,Benin,Africa
+Male,12.30,57.90,2025,Benin,Africa
+Female,9.00,60.70,2025,Benin,Africa
+Total,11.50,68.40,2970,Bhutan,Asia
+Male,11.50,68.20,7699,Bhutan,Asia
+Female,11.60,68.60,7699,Bhutan,Asia
+Total,13.80,68.00,3530,Bolivia,South America
+Male,14.10,65.60,6647,Bolivia,South America
+Female,13.50,70.50,6647,Bolivia,South America
+Total,13.40,76.00,6150,Bosnia and Herzegovina,Europe
+Male,13.00,73.50,13273,Bosnia and Herzegovina,Europe
+Female,13.80,78.50,13273,Bosnia and Herzegovina,Europe
+Total,12.30,60.20,7660,Botswana,Africa
+Male,12.20,57.80,14605,Botswana,Africa
+Female,12.40,62.60,14605,Botswana,Africa
+Total,14.00,73.60,9130,Brazil,South America
+Male,13.50,70.00,17604,Brazil,South America
+Female,14.40,77.40,17604,Brazil,South America
+Total,14.10,74.70,32230,Brunei,Asia
+Male,13.90,73.70,99508,Brunei,Asia
+Female,14.40,75.90,99508,Brunei,Asia
+Total,14.40,73.70,9410,Bulgaria,Europe
+Male,14.20,70.30,18171,Bulgaria,Europe
+Female,14.70,77.30,18171,Bulgaria,Europe
+Total,6.70,57.10,790,Burkina Faso,Africa
+Male,7.20,56.40,1728,Burkina Faso,Africa
+Female,6.20,57.60,1728,Burkina Faso,Africa
+Total,10.50,57.20,280,Burundi,Africa
+Male,11.00,55.50,790,Burundi,Africa
+Female,9.90,59.00,790,Burundi,Africa
+Total,12.30,71.10,3630,Cabo Verde,Africa
+Male,12.40,67.30,6873,Cabo Verde,Africa
+Female,12.70,74.60,6873,Cabo Verde,Africa
+Total,10.70,66.60,1480,Cambodia,Asia
+Male,11.30,64.30,2782,Cambodia,Asia
+Female,10.20,68.60,2782,Cambodia,Asia
+Total,7.40,55.10,1500,Cameroon,Africa
+Male,11.30,53.90,3350,Cameroon,Africa
+Female,9.70,56.30,3350,Cameroon,Africa
+Total,15.10,81.30,46370,Canada,North America
+Male,14.80,79.10,48524,Canada,North America
+Female,15.70,83.50,48524,Canada,North America
+Total,6.80,47.30,520,Central African Republic,Africa
+Male,8.10,45.80,1182,Central African Republic,Africa
+Female,5.50,48.80,1182,Central African Republic,Africa
+Total,6.70,50.90,700,Chad,Africa
+Male,8.10,49.60,2237,Chad,Africa
+Female,5.20,52.20,2237,Chad,Africa
+Total,15.20,78.80,15010,Chile,South America
+Male,15.30,75.70,24410,Chile,South America
+Female,15.50,81.70,24410,Chile,South America
+Total,12.90,74.40,10410,China,Asia
+Male,12.80,72.50,11299,China,Asia
+Female,12.70,76.60,11299,China,Asia
+Total,8.50,53.00,2290,Cote d'Ivoire,South America
+Male,9.80,51.70,3926,Cote d'Ivoire,South America
+Female,7.10,54.40,3926,Cote d'Ivoire,South America
+Total,14.30,75.40,6510,Colombia,Africa
+Male,14.00,72.40,12986,Colombia,Africa
+Female,14.60,78.40,12986,Colombia,Africa
+Total,10.60,61.90,1420,Comoros,Africa
+Male,11.00,60.30,3089,Comoros,Africa
+Female,10.20,63.50,3089,Comoros,Africa
+Total,10.70,60.10,520,Congo (Kinshasa),Africa
+Male,11.00,59.00,4624,Congo (Kinshasa),Africa
+Female,10.40,61.10,4624,Congo (Kinshasa),Africa
+Total,9.20,56.90,1750,"Congo, Rep.",North America
+Male,10.10,55.50,722,"Congo, Rep.",North America
+Female,7.50,58.30,722,"Congo, Rep.",North America
+Total,13.40,78.80,11700,Costa Rica,Europe
+Male,13.90,76.40,16047,Costa Rica,Europe
+Female,14.40,81.20,16047,Costa Rica,Europe
+Total,14.40,76.80,14910,Croatia,North America
+Male,13.80,73.40,23754,Croatia,North America
+Female,15.10,80.10,23754,Croatia,North America
+Total,16.40,78.30,0,Cuba,Europe
+Male,15.30,76.40,8879,Cuba,Europe
+Female,17.70,80.30,8879,Cuba,Europe
+Total,13.80,79.40,27710,Cyprus,Europe
+Male,13.90,77.20,39767,Cyprus,Europe
+Female,13.80,81.60,39767,Cyprus,Europe
+Total,16.00,77.60,22000,Czechia,Africa
+Male,15.60,74.50,33980,Czechia,Africa
+Female,16.60,80.70,33980,Czechia,Africa
+Total,16.90,79.40,63240,Denmark,Europe
+Male,16.30,77.30,52610,Denmark,Europe
+Female,17.60,81.50,52610,Denmark,Europe
+Total,5.90,60.10,3540,Djibouti,Africa
+Male,6.40,58.60,3010,Djibouti,Africa
+Female,5.40,61.60,3010,Djibouti,Africa
+Total,13.60,77.40,8090,Dominica,North America
+Male,,69.10,0,Dominica,North America
+Female,,75.30,0,Dominica,North America
+Total,13.00,72.00,8090,Dominican Republic,North America
+Male,12.50,72.30,14689,Dominican Republic,North America
+Female,13.50,78.00,14689,Dominican Republic,North America
+Total,13.20,75.10,6080,Ecuador,South America
+Male,13.00,,12169,Ecuador,South America
+Female,13.50,,12169,Ecuador,South America
+Total,12.00,70.30,2690,Egypt,Africa
+Male,12.20,68.20,15901,Egypt,Africa
+Female,11.70,72.60,15901,Egypt,Africa
+Total,12.50,71.20,4000,El Salvador,North America
+Male,12.70,66.50,7613,El Salvador,North America
+Female,12.30,75.70,7613,El Salvador,North America
+Total,9.20,55.60,6460,Equatorial Guinea,Africa
+Male,,54.50,26840,Equatorial Guinea,Africa
+Female,,56.90,26840,Equatorial Guinea,Africa
+Total,5.40,62.20,0,Eritrea,Africa
+Male,6.00,60.20,2292,Eritrea,Africa
+Female,4.80,64.30,2292,Eritrea,Africa
+Total,16.40,75.30,23220,Estonia,Europe
+Male,15.40,70.10,27247,Estonia,Europe
+Female,17.40,80.20,27247,Estonia,Europe
+Total,11.20,46.60,3590,Eswatini,Africa
+Male,11.60,44.40,10882,Eswatini,Africa
+Female,10.70,49.20,10882,Eswatini,Africa
+Total,8.20,61.60,850,Ethiopia,Africa
+Male,8.80,60.00,1358,Ethiopia,Africa
+Female,7.60,63.30,1358,Ethiopia,Africa
+Total,14.60,66.70,5860,Fiji,Oceania
+Male,,65.20,9227,Fiji,Oceania
+Female,,68.30,9227,Fiji,Oceania
+Total,16.90,80.10,49580,Finland,Europe
+Male,16.30,76.90,46943,Finland,Europe
+Female,17.50,83.30,46943,Finland,Europe
+Total,15.10,81.50,42400,France,Europe
+Male,14.80,78.10,45301,France,Europe
+Female,15.50,84.70,45301,France,Europe
+Total,12.50,61.40,7210,Gabon,Africa
+Male,12.60,60.00,18179,Gabon,Africa
+Female,12.40,62.80,18179,Gabon,Africa
+Total,8.70,59.60,740,Gambia,Africa
+Male,8.70,58.40,2236,Gambia,Africa
+Female,8.60,61.00,2236,Gambia,Africa
+Total,13.30,71.50,4740,Georgia,Europe
+Male,13.20,66.90,9497,Georgia,Europe
+Female,13.40,76.00,9497,Georgia,Europe
+Total,16.80,80.10,48520,Germany,Europe
+Male,17.00,77.50,50289,Germany,Europe
+Female,16.60,82.70,50289,Germany,Europe
+Total,10.90,61.00,2220,Ghana,Africa
+Male,11.30,60.10,3430,Ghana,Africa
+Female,10.40,62.00,3430,Ghana,Africa
+Total,16.20,80.50,20320,Greece,Europe
+Male,16.30,77.90,35179,Greece,Europe
+Female,16.10,83.30,35179,Greece,Europe
+Total,15.90,72.90,9980,Grenada,North America
+Male,15.50,70.50,0,Grenada,North America
+Female,16.30,75.50,0,Grenada,North America
+Total,10.50,71.50,4610,Guatemala,North America
+Male,10.80,68.20,9023,Guatemala,North America
+Female,10.30,74.70,9023,Guatemala,North America
+Total,8.40,56.90,950,Guinea,Africa
+Male,9.80,56.00,1853,Guinea,Africa
+Female,7.10,57.50,1853,Guinea,Africa
+Total,9.90,54.60,820,Guinea-Bissau,Africa
+Male,,52.20,1708,Guinea-Bissau,Africa
+Female,,56.90,1708,Guinea-Bissau,Africa
+Total,10.90,68.10,5180,Guyana,South America
+Male,10.60,64.80,8337,Guyana,South America
+Female,11.30,71.50,8337,Guyana,South America
+Total,8.70,60.50,790,Haiti,North America
+Male,9.00,58.50,1794,Haiti,North America
+Female,8.40,62.50,1794,Haiti,North America
+Total,10.70,73.30,2390,Honduras,North America
+Male,10.30,70.90,4632,Honduras,North America
+Female,11.10,75.70,4632,Honduras,North America
+Total,15.30,82.90,50840,"Hong Kong SAR, China",Asia
+Male,15.10,79.90,63014,"Hong Kong SAR, China",Asia
+Female,15.30,85.90,63014,"Hong Kong SAR, China",Asia
+Total,15.30,74.50,16140,Hungary,Europe
+Male,14.90,70.60,26161,Hungary,Europe
+Female,15.60,78.20,26161,Hungary,Europe
+Total,18.50,81.80,72850,Iceland,Europe
+Male,17.30,80.10,38534,Iceland,Europe
+Female,19.80,83.50,38534,Iceland,Europe
+Total,10.80,66.70,2130,India,Asia
+Male,11.00,65.70,6819,India,Asia
+Female,10.50,67.70,6819,India,Asia
+Total,12.20,69.20,4050,Indonesia,Asia
+Male,12.10,67.20,11081,Indonesia,Asia
+Female,12.30,71.30,11081,Indonesia,Asia
+Total,13.10,73.90,5420,Iran,Asia
+Male,13.10,72.50,30513,Iran,Asia
+Female,13.00,75.40,30513,Iran,Asia
+Total,10.40,68.60,5740,Iraq,Asia
+Male,11.90,65.90,23240,Iraq,Asia
+Female,9.90,71.40,23240,Iraq,Asia
+Total,17.50,80.20,62210,Ireland,Europe
+Male,18.30,78.10,44135,Ireland,Europe
+Female,18.60,82.30,44135,Ireland,Europe
+Total,15.80,81.50,43290,Israel,Asia
+Male,15.40,79.50,37548,Israel,Asia
+Female,16.30,83.30,37548,Israel,Asia
+Total,16.40,82.00,34460,Italy,Europe
+Male,15.90,79.30,46958,Italy,Europe
+Female,16.80,84.40,46958,Italy,Europe
+Total,14.20,74.00,5250,Jamaica,North America
+Male,13.30,72.60,9448,Jamaica,North America
+Female,15.00,75.50,9448,Jamaica,North America
+Total,15.00,83.00,41690,Japan,Asia
+Male,15.20,79.60,50121,Japan,Asia
+Female,14.90,86.20,50121,Japan,Asia
+Total,12.80,73.40,4300,Jordan,Asia
+Male,12.60,71.90,15545,Jordan,Asia
+Female,13.10,75.10,15545,Jordan,Asia
+Total,14.40,67.40,8810,Kazakhstan,Asia
+Male,14.10,62.20,22738,Kazakhstan,Asia
+Female,14.70,72.70,22738,Kazakhstan,Asia
+Total,10.60,61.00,1750,Kenya,Africa
+Male,10.80,58.90,2840,Kenya,Africa
+Female,10.20,62.90,2840,Kenya,Africa
+Total,11.90,65.80,3350,Kiribati,Oceania
+Male,11.50,61.90,0,Kiribati,Oceania
+Female,12.30,69.70,0,Kiribati,Oceania
+Total,16.80,69.60,0,"Korea, Dem. People's Rep.",Asia
+Male,0.00,66.00,0,"Korea, Dem. People's Rep.",Asia
+Female,0.00,72.90,0,"Korea, Dem. People's Rep.",Asia
+Total,,,0,"Korea, South",
+Male,17.60,,0,"Korea, South",
+Female,16.00,,0,"Korea, South",
+Total,13.40,74.40,34290,Kuwait,Asia
+Male,12.70,73.60,103636,Kuwait,Asia
+Female,14.10,75.40,103636,Kuwait,Asia
+Total,12.40,68.80,1240,Kyrgyzstan,Asia
+Male,12.20,64.90,3453,Kyrgyzstan,Asia
+Female,12.70,73.00,3453,Kyrgyzstan,Asia
+Total,10.00,64.30,2570,Laos,Asia
+Male,10.60,62.50,4802,Laos,Asia
+Female,9.30,66.10,4802,Laos,Asia
+Total,15.60,72.80,17730,Latvia,Europe
+Male,14.70,67.50,22040,Latvia,Europe
+Female,16.60,77.90,22040,Latvia,Europe
+Total,13.20,78.40,7600,Lebanon,Asia
+Male,13.40,76.60,22475,Lebanon,Asia
+Female,13.00,80.30,22475,Lebanon,Asia
+Total,11.00,45.10,1360,Lesotho,Africa
+Male,10.50,42.40,3649,Lesotho,Africa
+Female,11.40,48.10,3649,Lesotho,Africa
+Total,9.50,59.60,580,Liberia,Africa
+Male,10.40,58.00,1032,Liberia,Africa
+Female,8.60,61.30,1032,Liberia,Africa
+Total,14.00,72.00,7640,Libya,Africa
+Male,13.80,69.50,46013,Libya,Africa
+Female,14.30,75.00,46013,Libya,Africa
+Total,14.50,79.50,0,Liechtenstein,Europe
+Male,15.60,,0,Liechtenstein,Europe
+Female,13.40,,0,Liechtenstein,Europe
+Total,16.80,72.80,18990,Lithuania,Europe
+Male,15.90,67.10,23930,Lithuania,Europe
+Female,17.50,78.50,23930,Lithuania,Europe
+Total,13.90,80.40,73910,Luxembourg,Europe
+Male,13.90,77.80,79101,Luxembourg,Europe
+Female,14.00,82.80,79101,Luxembourg,Europe
+Total,10.20,63.40,520,Madagascar,Africa
+Male,10.40,61.90,1638,Madagascar,Africa
+Female,10.00,64.90,1638,Madagascar,Africa
+Total,10.30,55.60,380,Malawi,Africa
+Male,10.30,52.80,1231,Malawi,Africa
+Female,10.20,58.40,1231,Malawi,Africa
+Total,13.00,74.50,11200,Malaysia,Asia
+Male,12.60,72.50,26164,Malaysia,Asia
+Female,13.30,76.70,26164,Malaysia,Asia
+Total,11.90,75.90,9650,Maldives,Asia
+Male,11.80,74.70,14253,Maldives,Asia
+Female,11.90,77.40,14253,Maldives,Asia
+Total,7.60,55.30,880,Mali,Africa
+Male,8.60,54.60,2244,Mali,Africa
+Female,6.60,55.90,2244,Mali,Africa
+Total,15.30,80.90,27290,Malta,Europe
+Male,15.40,78.70,38642,Malta,Europe
+Female,15.20,82.90,38642,Malta,Europe
+Total,7.60,62.50,1660,Mauritania,Africa
+Male,7.70,60.70,5036,Mauritania,Africa
+Female,7.60,64.30,5036,Mauritania,Africa
+Total,14.10,73.50,12740,Mauritius,Africa
+Male,13.80,70.00,22654,Mauritius,Africa
+Female,14.40,77.00,22654,Mauritius,Africa
+Total,12.80,75.10,9430,Mexico,North America
+Male,12.60,72.10,22139,Mexico,North America
+Female,13.00,78.00,22139,Mexico,North America
+Total,11.20,66.50,3400,"Micronesia, Fed. Sts.",Oceania
+Male,,64.90,0,"Micronesia, Fed. Sts.",Oceania
+Female,,68.20,0,"Micronesia, Fed. Sts.",Oceania
+Total,11.80,69.60,3930,Moldova,Europe
+Male,11.50,65.60,5770,Moldova,Europe
+Female,12.10,73.60,5770,Moldova,Europe
+Total,14.60,67.40,3780,Mongolia,Asia
+Male,13.90,63.50,8340,Mongolia,Asia
+Female,15.30,71.60,8340,Mongolia,Asia
+Total,15.10,75.20,9010,Montenegro,Europe
+Male,14.80,72.80,17262,Montenegro,Europe
+Female,15.40,77.50,17262,Montenegro,Europe
+Total,11.10,74.40,3190,Morocco,Africa
+Male,11.60,73.00,10029,Morocco,Africa
+Female,10.60,75.70,10029,Morocco,Africa
+Total,9.60,52.30,480,Mozambique,Africa
+Male,10.30,49.80,994,Mozambique,Africa
+Female,8.90,54.70,994,Mozambique,Africa
+Total,9.20,63.50,1390,Myanmar,Asia
+Male,,60.10,4903,Myanmar,Asia
+Female,,66.90,4903,Myanmar,Asia
+Total,11.90,56.70,5060,Namibia,Africa
+Male,11.80,54.60,9779,Namibia,Africa
+Female,12.00,58.60,9779,Namibia,Africa
+Total,12.00,67.60,1090,Nepal,Asia
+Male,12.10,66.30,2419,Nepal,Asia
+Female,11.90,69.00,2419,Nepal,Asia
+Total,17.00,80.80,53200,Netherlands,Europe
+Male,16.90,78.70,55699,Netherlands,Europe
+Female,17.10,82.70,55699,Netherlands,Europe
+Total,19.80,80.90,42670,New Zealand,Oceania
+Male,18.90,78.90,38862,New Zealand,Oceania
+Female,20.50,82.70,38862,New Zealand,Oceania
+Total,11.50,72.40,1910,Nicaragua,North America
+Male,11.30,69.20,5563,Nicaragua,North America
+Female,11.80,75.60,5563,Nicaragua,North America
+Total,4.70,57.30,560,Niger,Africa
+Male,5.40,56.40,0,Niger,Africa
+Female,4.10,58.40,0,Niger,Africa
+Total,8.40,50.90,2030,Nigeria,Africa
+Male,8.80,50.20,5600,Nigeria,Africa
+Female,7.90,51.70,5600,Nigeria,Africa
+Total,12.90,74.70,5910,North Macedonia,Europe
+Male,12.90,72.70,14078,North Macedonia,Europe
+Female,12.90,76.70,14078,North Macedonia,Europe
+Total,17.50,81.20,82500,Norway,Europe
+Male,16.90,79.00,70672,Norway,Europe
+Female,18.30,83.30,70672,Norway,Europe
+Total,13.40,75.70,15330,Oman,Asia
+Male,13.30,73.90,61845,Oman,Asia
+Female,13.40,78.20,61845,Oman,Asia
+Total,7.50,65.30,1530,Pakistan,Asia
+Male,8.20,64.40,7017,Pakistan,Asia
+Female,6.80,66.20,7017,Pakistan,Asia
+Total,14.20,71.50,17280,Palau,Oceania
+Male,13.60,,0,Palau,Oceania
+Female,14.80,,0,Palau,Oceania
+Total,12.80,76.80,14950,Panama,North America
+Male,12.40,73.90,18080,Panama,North America
+Female,13.30,79.80,18080,Panama,North America
+Total,9.80,62.00,2780,Papua New Guinea,Oceania
+Male,,60.70,3199,Papua New Guinea,Oceania
+Female,,63.40,3199,Papua New Guinea,Oceania
+Total,12.30,72.70,5510,Paraguay,South America
+Male,12.00,70.70,12361,Paraguay,South America
+Female,12.60,74.70,12361,Paraguay,South America
+Total,13.40,74.40,6740,Peru,South America
+Male,13.40,72.00,12272,Peru,South America
+Female,13.50,76.90,12272,Peru,South America
+Total,11.70,69.80,3850,Philippines,Asia
+Male,11.50,66.00,8208,Philippines,Asia
+Female,11.90,74.00,8208,Philippines,Asia
+Total,15.30,76.30,15200,Poland,Europe
+Male,14.60,72.10,25582,Poland,Europe
+Female,16.10,80.50,25582,Poland,Europe
+Total,16.00,80.00,23080,Portugal,Europe
+Male,15.80,76.80,30636,Portugal,Europe
+Female,16.30,83.10,30636,Portugal,Europe
+Total,12.80,79.10,63410,Qatar,Asia
+Male,12.30,77.90,130152,Qatar,Asia
+Female,13.40,80.70,130152,Qatar,Asia
+Total,15.40,74.10,12630,Romania,Europe
+Male,14.90,70.60,20924,Romania,Europe
+Female,16.00,77.60,20924,Romania,Europe
+Total,14.00,68.70,11260,Russia,Europe
+Male,13.50,62.80,27729,Russia,Europe
+Female,14.60,74.80,27729,Russia,Europe
+Total,11.10,63.40,820,Rwanda,Africa
+Male,11.10,61.70,1530,Rwanda,Africa
+Female,11.20,65.10,1530,Rwanda,Africa
+Total,13.00,72.90,19030,Saint Kitts and Nevis,North America
+Male,12.60,,0,Saint Kitts and Nevis,North America
+Female,13.30,,0,Saint Kitts and Nevis,North America
+Total,13.10,74.90,11020,Saint Lucia,North America
+Male,12.80,73.50,14075,Saint Lucia,North America
+Female,13.50,76.30,14075,Saint Lucia,North America
+Total,13.50,71.80,7460,Saint Vincent and the Grenadines,North America
+Male,13.30,69.50,12598,Saint Vincent and the Grenadines,North America
+Female,13.70,74.30,12598,Saint Vincent and the Grenadines,North America
+Total,12.90,71.70,4180,San Marino,Oceania
+Male,11.90,69.50,6672,San Marino,Oceania
+Female,12.70,74.00,6672,San Marino,Oceania
+Total,10.60,67.40,1960,Sao Tome and Principe,Africa
+Male,10.60,65.20,3502,Sao Tome and Principe,Africa
+Female,10.50,69.70,3502,Sao Tome and Principe,Africa
+Total,14.30,73.90,22850,Saudi Arabia,Asia
+Male,14.60,72.60,70525,Saudi Arabia,Asia
+Female,13.90,75.50,70525,Saudi Arabia,Asia
+Total,8.00,64.30,1450,Senegal,Africa
+Male,8.10,62.60,3856,Senegal,Africa
+Female,7.80,65.80,3856,Senegal,Africa
+Total,13.50,74.10,7020,Serbia,Europe
+Male,13.20,71.40,15225,Serbia,Europe
+Female,13.90,76.80,15225,Serbia,Europe
+Total,13.40,72.90,16870,Seychelles,Africa
+Male,12.80,69.30,0,Seychelles,Africa
+Female,13.90,76.80,0,Seychelles,Africa
+Total,8.90,49.40,500,Sierra Leone,Africa
+Male,9.60,48.50,1356,Sierra Leone,Africa
+Female,8.40,50.20,1356,Sierra Leone,Africa
+Total,15.20,81.80,59590,Singapore,Asia
+Male,15.10,79.50,88632,Singapore,Asia
+Female,15.30,84.20,88632,Singapore,Asia
+Total,15.00,75.50,19320,Slovakia,Europe
+Male,14.40,71.70,31086,Slovakia,Europe
+Female,15.60,79.20,31086,Slovakia,Europe
+Total,17.10,79.40,25750,Slovenia,Europe
+Male,16.30,76.10,31739,Slovenia,Europe
+Female,17.90,82.60,31739,Slovenia,Europe
+Total,10.70,70.70,2050,Somalia,Oceania
+Male,11.10,69.10,1654,Somalia,Oceania
+Female,10.20,72.50,1654,Somalia,Oceania
+Total,12.80,57.70,6040,South Africa,Africa
+Male,12.30,54.90,14705,South Africa,Africa
+Female,13.40,60.60,14705,South Africa,Africa
+Total,4.90,54.80,0,South Sudan,Africa
+Male,6.10,53.60,2754,South Sudan,Africa
+Female,3.70,56.00,2754,South Sudan,Africa
+Total,16.80,81.90,30390,Spain,Europe
+Male,16.40,78.90,40081,Spain,Europe
+Female,17.30,84.90,40081,Spain,Europe
+Total,13.60,75.40,4020,Sri Lanka,Asia
+Male,13.40,72.00,12339,Sri Lanka,Asia
+Female,13.80,78.90,12339,Sri Lanka,Asia
+Total,7.30,62.80,590,Sudan,Africa
+Male,7.60,61.00,4974,Sudan,Africa
+Female,6.90,64.50,4974,Sudan,Africa
+Total,12.20,70.50,5540,Suriname,South America
+Male,11.70,67.30,18387,Suriname,South America
+Female,12.70,73.80,18387,Suriname,South America
+Total,15.90,81.50,55840,Sweden,Europe
+Male,15.20,79.60,51777,Sweden,Europe
+Female,16.70,83.40,51777,Sweden,Europe
+Total,15.60,82.30,85500,Switzerland,Europe
+Male,15.70,79.90,72847,Switzerland,Europe
+Female,15.50,84.40,72847,Switzerland,Europe
+Total,11.80,72.10,0,Syria,Asia
+Male,12.00,68.10,10535,Syria,Asia
+Female,11.60,76.80,10535,Syria,Asia
+Total,11.10,68.70,1030,Tajikistan,Asia
+Male,11.90,66.50,4497,Tajikistan,Asia
+Female,10.20,71.20,4497,Tajikistan,Asia
+Total,8.80,58.60,1080,Tanzania,Africa
+Male,9.10,56.80,2447,Tanzania,Africa
+Female,8.60,60.40,2447,Tanzania,Africa
+Total,13.30,74.20,7260,Thailand,Asia
+Male,12.80,70.70,15028,Thailand,Asia
+Female,13.70,77.70,15028,Thailand,Asia
+Total,12.40,67.20,1890,Timor-Leste,Oceania
+Male,12.80,65.60,10980,Timor-Leste,Oceania
+Female,12.00,68.80,10980,Timor-Leste,Oceania
+Total,11.50,57.50,690,Togo,Africa
+Male,12.40,56.80,1533,Togo,Africa
+Female,9.20,58.10,1533,Togo,Africa
+Total,13.20,70.10,4300,Tonga,Oceania
+Male,14.10,68.10,6852,Tonga,Oceania
+Female,14.70,72.00,6852,Tonga,Oceania
+Total,12.70,71.90,16890,Trinidad and Tobago,North America
+Male,12.20,69.20,36468,Trinidad and Tobago,North America
+Female,13.00,74.80,36468,Trinidad and Tobago,North America
+Total,14.50,75.00,3360,Tunisia,Africa
+Male,14.00,72.80,15499,Tunisia,Africa
+Female,15.00,77.40,15499,Tunisia,Africa
+Total,13.80,74.50,9610,Turkey,Asia
+Male,14.30,71.20,25618,Turkey,Asia
+Female,13.40,77.80,25618,Turkey,Asia
+Total,10.60,66.70,6740,Turkmenistan,Africa
+Male,10.90,63.20,11705,Turkmenistan,Africa
+Female,10.40,70.20,11705,Turkmenistan,Africa
+Total,11.00,57.10,780,Uganda,Europe
+Male,11.70,55.30,2016,Uganda,Europe
+Female,10.80,58.70,2016,Uganda,Europe
+Total,14.80,69.40,3370,Ukraine,Asia
+Male,14.40,64.00,9704,Ukraine,Asia
+Female,15.10,74.80,9704,Ukraine,Asia
+Total,12.20,76.30,43470,United Arab Emirates,Europe
+Male,,75.60,67774,United Arab Emirates,Europe
+Female,,77.80,67774,United Arab Emirates,Europe
+Total,16.40,80.40,42370,United Kingdom,Europe
+Male,16.00,78.30,48304,United Kingdom,Europe
+Female,16.80,82.30,48304,United Kingdom,Europe
+Total,16.20,78.70,65760,United States of America,North America
+Male,15.70,76.20,60900,United States of America,North America
+Female,17.50,81.10,60900,United States of America,North America
+Total,14.70,76.80,16230,Uruguay,South America
+Male,13.80,72.90,21543,Uruguay,South America
+Female,15.60,80.40,21543,Uruguay,South America
+Total,11.40,69.70,1800,Uzbekistan,Asia
+Male,11.60,66.90,5574,Uzbekistan,Asia
+Female,11.30,72.50,5574,Uzbekistan,Asia
+Total,10.80,69.10,3170,Vanuatu,Oceania
+Male,11.10,67.60,3459,Vanuatu,Oceania
+Female,10.40,70.80,3459,Vanuatu,Oceania
+Total,13.60,73.10,0,Venezuela,South America
+Male,12.60,69.40,20828,Venezuela,South America
+Female,14.70,77.10,20828,Venezuela,South America
+Total,12.00,74.80,2540,Vietnam,Asia
+Male,12.10,70.70,4770,Vietnam,Asia
+Female,12.10,78.90,4770,Vietnam,Asia
+Total,8.60,65.50,940,Yemen,Asia
+Male,9.90,63.90,6522,Yemen,Asia
+Female,7.20,67.20,6522,Yemen,Asia
+Total,11.00,55.70,1450,Zambia,Africa
+Male,11.50,53.50,3661,Zambia,Africa
+Female,10.60,57.80,3661,Zambia,Africa
+Total,10.10,50.60,1390,Zimbabwe,Africa
+Male,10.30,48.90,1958,Zimbabwe,Africa
+Female,10.00,52.20,1958,Zimbabwe,Africa
