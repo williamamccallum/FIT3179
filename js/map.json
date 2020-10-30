@@ -34,7 +34,7 @@
     "color": {
       "field": "Education",
       "type": "quantitative",
-      "scale": {"type": "linear", "scheme" : "viridis"}
+      "scale": {"type": "linear", "scheme" : "viridis", "reverse" : true}
     },
     "tooltip": [
       {"field": "properties.NAME", "type": "nominal", "title": "Country "},
