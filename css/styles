@@ -24,7 +24,7 @@ h2 {
 #map {
 	top:100px;
 	bottom: 100px; 
-	left: 100px;
+	left: 800px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
