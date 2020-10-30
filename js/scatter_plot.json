@@ -1,0 +1,65 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Education vs. Life Expectancy",
+  "data": {
+    "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Summary.csv"
+  },
+  "vconcat": [
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "selection": "brush",
+            "title": "Weather",
+            "field": "Continent",
+            "type": "nominal",
+            "scale": {
+              "domain": ["Asia", "Africa", "Europe",  "Oceania", "South America", "North America"],
+              "range": ["#EB364E", "#E89C1A", "#07BAA3", "#515BE8", "#22801B", "#B72EE8"]
+            }
+          },
+          "value": "lightgray"
+        },
+        "x": {
+          "field": "Education",
+          "type": "quantitative",
+          "title": "Avg. Education (Years)"
+        },
+        "y": {
+          "title": "Life Expectancy",
+          "field": "Avg Income",
+          "scale": {"domain": [0, 100000]},
+          "type": "quantitative"
+        }
+      },
+      "width": 600,
+      "height": 300,
+      "mark": {"type" :"circle" , "tooltip": {"content": "data"}} ,
+      "selection": {"brush": {"type": "interval"}},
+      "transform": [{"filter" :{"field": "Gender", "oneOf": ["Total"]}},
+        {"filter": {"selection": "click"}}]
+    },
+    {
+      "encoding": {
+        "color": {
+          "condition": {
+            "selection": "click",
+            "field": "Continent",
+            "scale": {
+              "domain": ["Asia", "Africa", "Europe",  "Oceania", "South America", "North America"],
+              "range": ["#EB364E", "#E89C1A", "#07BAA3", "#515BE8", "#22801B", "#B72EE8"]
+            }
+          },
+          "value": "lightgray"
+        },
+        "x": {"aggregate": "count"},
+        "y": {"title": "Continent", "field": "Continent"}
+      },
+      "width": 600,
+      "mark": "bar",
+      "selection": {"click": {"encodings": ["color"], "type": "multi"}},
+      "transform": [{"filter": {"selection": "brush"}}]
+    }
+  ]
+}
+
