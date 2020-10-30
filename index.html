@@ -27,13 +27,14 @@ h2 {
 	background: #F01F9C;
 	padding: 0px; 
 	width: 840px;
-	height: 200px; 
+	height: 200px;
+	left: 300px;
 }
 
 #map {
 	top:100px;
 	bottom: 100px; 
-	left: 100px;
+	left: 300px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
@@ -42,7 +43,16 @@ h2 {
 #scatter {
 	top:100px;
 	bottom: 100px; 
-	left: 100px;
+	left: 300px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+}
+	
+#overview {
+	top:100px;
+	bottom: 100px; 
+	left: 300px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
@@ -52,13 +62,24 @@ h2 {
 <body>
 <h1 id="title">
 	Education Across the World</h1>
+
+<div id="overview"></div>
+
+<script type="text/javascript">
   
+  var spec1 = "https://williamamccallum.github.io/FIT3179/js/overview_line.json";
+  vegaEmbed('#overview', spec1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+	
+	
 <div id="map"></div>
 
 <script type="text/javascript">
   
-  var spec = "https://williamamccallum.github.io/FIT3179/js/map.json";
-  vegaEmbed('#map', spec).then(function(result) {
+  var spec2 = "https://williamamccallum.github.io/FIT3179/js/map.json";
+  vegaEmbed('#map', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
