@@ -7,6 +7,14 @@
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 <style>
+
+ <!--
+      @page {
+         size: auto;   /* auto is the initial value */
+         margin: 20%;
+      }
+ -->
+
 h1 {
 	font-family: "Times New Roman", Times, serif;
 	color: white;
@@ -24,9 +32,8 @@ h2 {
 }
 
 #title {
-	position: absolute;
-  	top: -85px;
-  	left: 400px;
+  	top: 100px;
+  	left: 200px;
 	border-radius: 50px;
 	background: #F01F9C;
 	padding: 0px; 
@@ -37,7 +44,7 @@ h2 {
 #map {
 	top:200px;
 	bottom: 100px; 
-	left: 230px;
+	left: 30px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
@@ -46,7 +53,7 @@ h2 {
 #scatter {
 	top:200px;
 	bottom: 100px; 
-	left: 200px;
+	left: 0px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
@@ -55,7 +62,7 @@ h2 {
 #overview {
 	top:250px;
 	bottom: 100px; 
-	left: 200px;
+	left: 0px;
 	right: 100px;
 	/*height: 1000px;
 	width: 800px;*/
