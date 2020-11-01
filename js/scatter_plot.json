@@ -31,8 +31,8 @@
           "type": "quantitative"
         }
       },
-      "width": 550,
-      "height": 300,
+      "width": 400,
+      "height": 250,
       "mark": {"type" :"circle" , "tooltip": {"content": "data"}} ,
       "selection": {"brush": {"type": "interval"}},
       "transform": [{"filter" :{"field": "Gender", "oneOf": ["Total"]}}]
@@ -64,8 +64,8 @@
           "type": "quantitative"
         }
       },
-      "width": 550,
-      "height": 300,
+      "width": 400,
+      "height": 250,
       "mark": {"type" :"circle" , "tooltip": {"content": "data"}} ,
       "selection": {"brush": {"type": "interval"}},
       "transform": [{"filter" :{"field": "Gender", "oneOf": ["Total"]}}]
