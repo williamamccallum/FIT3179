@@ -2,8 +2,18 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": { "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Summary.csv"},
   "width": 70,
-  "mark": "bar",
-  "transform": [{"filter" :{"field": "Gender", "oneOf": ["Male", "Female"]}}],
+  "height": 330,
+  "selection": {
+    "highlight": {"type": "single", "empty": "none", "on": "mouseover"},
+    "select": {"type": "multi"}
+  },
+  "mark": {"type":"bar",
+          "stroke": "black",
+          "cursor": "pointer"
+  },
+  "transform": [{"filter" :{"field": "Gender", "oneOf": ["Male", "Female"]}},
+  {"filter" :{"field": "Continent", "oneOf": ["Africa", "Asia", "Europe", "Oceania", 
+  "South America", "North America"]}}],
   "encoding": {
     "column": {
       "field": "Continent", "type": "nominal", "spacing": 15
@@ -20,10 +30,36 @@
     "color": {
       "field": "Gender",
       "scale": {"range": ["#675193", "#ca8861"]}
+    },
+    "fillOpacity": {
+      "condition": {"selection": "select", "value": 1},
+      "value": 0.3
+    },
+    "tooltip": [{"field": "Continent", "type": "nominal"},
+      {"field": "Gender", "type": "nominal"},
+    {"field": "average_Education", "title":"Avg. Education (Yrs)", "type": "quantitative", "format": ".2f"}],
+    "strokeWidth": {
+      "condition": [
+        {
+          "test": {
+            "and": [
+              {"selection": "select"},
+              "length(data(\"select_store\"))"
+            ]
+          },
+          "value": 2
+        },
+        {"selection": "highlight", "value": 1}
+      ],
+      "value": 0
     }
   },
   "config": {
     "view": {"stroke": "transparent"},
-    "axis": {"domainWidth": 1}
+    "axis": {"domainWidth": 1},
+    "scale": {
+      "bandPaddingInner": 0.2
+    }
   }
 }
+
