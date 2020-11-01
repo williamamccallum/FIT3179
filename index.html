@@ -110,24 +110,8 @@ p.subtitle {
 <h1 id="title"><br>Education Across the World</h1>
 
 <div id="overview"></div>
-
-<script type="text/javascript">
-  
-  var spec1 = "https://williamamccallum.github.io/FIT3179/js/overview_line.json";
-  vegaEmbed('#overview', spec1).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
 	
 <div id="map"></div>
-
-<script type="text/javascript">
-  
-  var spec2 = "https://williamamccallum.github.io/FIT3179/js/map.json";
-  vegaEmbed('#map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
 	
 <div class="paragraph">
 <p class="subtitle">Subtitle<br></p>
@@ -139,10 +123,20 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat n
 </div>
 
 <div id="scatter"></div>
-
+	
 <script type="text/javascript">
   
-  var spec3 = "https://williamamccallum.github.io/FIT3179/js/scatter_plot.json";
+  var spec1 = "https://williamamccallum.github.io/FIT3179/js/overview_line.json";
+  vegaEmbed('#overview', spec1).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+
+  var spec2 = "https://williamamccallum.github.io/FIT3179/js/map.json";
+  vegaEmbed('#map', spec2).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);	
+
+var spec3 = "https://williamamccallum.github.io/FIT3179/js/scatter_plot.json";
   vegaEmbed('#scatter', spec3).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
