@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": { "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Summary.csv"},
+  "width": 70,
+  "mark": "bar",
+  "transform": [{"filter" :{"field": "Gender", "oneOf": ["Male", "Female"]}}],
+  "encoding": {
+    "column": {
+      "field": "Continent", "type": "nominal", "spacing": 15
+    },
+    "y": {
+      "aggregate": "average", "field": "Education",
+      "title": "Years of education",
+      "axis": {"grid": false}
+    },
+    "x": {
+      "field": "Gender",
+      "axis": {"title": ""}
+    },
+    "color": {
+      "field": "Gender",
+      "scale": {"range": ["#675193", "#ca8861"]}
+    }
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
+  }
+}
