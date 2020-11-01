@@ -27,7 +27,7 @@
         "y": {
           "title": "Life Expectancy (Years)",
           "field": "Life Expectancy",
-          "scale": {"domain": [0, 90]},
+          "scale": {"domain": [40, 90]},
           "type": "quantitative"
         }
       },
