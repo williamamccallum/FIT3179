@@ -34,6 +34,7 @@
     "color": {
       "field": "Education",
       "type": "quantitative",
+      "title" : "Years of Education",
       "scale": {"type": "linear", "scheme" : "viridis", "reverse" : true}
     },
     "tooltip": [
