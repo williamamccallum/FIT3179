@@ -31,7 +31,7 @@
           "type": "quantitative"
         }
       },
-      "width": 400,
+      "width": 500,
       "height": 250,
       "mark": {"type" :"circle" , "tooltip": {"content": "data"}} ,
       "selection": {"brush": {"type": "interval"}},
@@ -64,7 +64,7 @@
           "type": "quantitative"
         }
       },
-      "width": 400,
+      "width": 500,
       "height": 250,
       "mark": {"type" :"circle" , "tooltip": {"content": "data"}} ,
       "selection": {"brush": {"type": "interval"}},
