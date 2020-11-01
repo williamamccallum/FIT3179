@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Average Years of Education by Country (2010)",
-  "width": 1200,
-  "height": 800,
+  "width": 800,
+  "height": 500,
   "projection": {"type": "equirectangular"},
   "layer" : [
     {
