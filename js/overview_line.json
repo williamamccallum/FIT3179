@@ -28,7 +28,7 @@
   "encoding": {"x": {"field": "Year", "type": "quantitative"}},
   "layer": [
     {
-      "width": 880,
+      "width": 1080,
       "height": 300,
       "encoding": {
         "color": {"field": "Country", "type": "nominal",
