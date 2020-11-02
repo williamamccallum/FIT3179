@@ -1,33 +1,72 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Years.csv"},
-  "width": 1280,
-  "height": 300,
-  "encoding": {"x": {"field": "Year", "type": "quantitative"}},
-  "transform": [{"filter": {
+  "data": {
+    "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Years.csv"
+  },
+  "transform": [
+    {
+      "filter": {
         "field": "Country",
         "oneOf": [
           "Australia",
-          "Greece",
+          "New Zealand",
           "Japan",
           "China",
           "United Kingdom",
           "Finland",
-          "New Zealand",
-          "Germany",
           "Gambia",
           "Mozambique",
           "Canada",
           "Mexico",
           "Brazil",
-          "Chad"
+          "Peru"
         ]
-      }}],
+      }
+    }
+  ],
+  "hconcat" : [{
+  "encoding": {"x": {"field": "Year", "type": "quantitative"}},
   "layer": [
     {
+      "width": 880,
+      "height": 300,
       "encoding": {
-        "color": {"field": "Country", "type": "nominal"},
-        "y": {"field": "Education", "type": "quantitative", "title": "Avg. Years of Education"}
+        "color": {"field": "Country", "type": "nominal",
+            "scale": {
+              "domain": [
+                "Japan",
+                "Gambia",
+                "United Kingdom",
+                "Australia",
+                "Brazil",
+                "Canada",
+                "China",
+                "Mozambique",
+                "Finland",
+                "New Zealand",
+                "Peru",
+                "Mexico",
+                "Asia",
+                "Africa",
+                "Europe",
+                "Oceania",
+                "South America",
+                "North America"
+              ],
+              "range": [
+                "#EB364E",
+                "#E89C1A",
+                "#07BAA3",
+                "#515BE8",
+                "#22801B",
+                "#B72EE8"
+              ]
+            }},
+        "y": {
+          "field": "Education",
+          "type": "quantitative",
+          "title": "Avg. Years of Education"
+        }
       },
       "layer": [
         {"mark": "line"},
@@ -35,7 +74,9 @@
       ]
     },
     {
-      "transform": [{"pivot": "Country", "value": "Education", "groupby": ["Year"]}],
+      "transform": [
+        {"pivot": "Country", "value": "Education", "groupby": ["Year"]}
+      ],
       "mark": "rule",
       "encoding": {
         "opacity": {
@@ -44,10 +85,16 @@
         },
         "tooltip": [
           {"field": "Australia", "type": "quantitative"},
+          {"field": "New Zealand", "type": "quantitative"},
           {"field": "Canada", "type": "quantitative"},
+          {"field": "Mexico", "type": "quantitative"},
           {"field": "Japan", "type": "quantitative"},
-          {"field": "Chad", "type": "quantitative"},
+          {"field": "China", "type": "quantitative"},
           {"field": "United Kingdom", "type": "quantitative"},
+          {"field": "Finland", "type": "quantitative"},
+          {"field": "Gambia", "type": "quantitative"},
+          {"field": "Mozambique", "type": "quantitative"},
+          {"field": "Peru", "type": "quantitative"},
           {"field": "Brazil", "type": "quantitative"}
         ]
       },
@@ -62,5 +109,19 @@
         }
       }
     }
-  ]
+  ]},{
+    "mark": "circle",
+    "encoding": {
+    "y": {"field": "Continent",
+    "axis": {
+      "orient": "right"
+      }
+    },
+    "color" :{
+      "field": "Continent",
+            "type": "nominal"
+    }
+  }
+  }],
+  "config": {"legend" :{"disable":true}}
 }
