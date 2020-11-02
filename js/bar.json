@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Summary.csv"
   },
-  "width": 75,
+  "width": 80,
   "height": 330,
   "selection": {
     "highlight": {"type": "single", "empty": "none", "on": "mouseover"},
