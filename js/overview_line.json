@@ -1,44 +1,66 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "Stock prices of 5 Tech Companies over Time.",
   "data": {"url": "https://raw.githubusercontent.com/williamamccallum/FIT3179/main/data/Education_Years.csv"},
-  "title": "Avg. Years of Education by Country",
   "width": 1280,
-  "height": 350,
-  "mark": {"type" : "line", "tooltip" : {"content": "data"}},
-  "transform": [
-    {"filter": {"field": "Country", "oneOf" : ["Australia", "Greece", "Japan", "China",
-    "United Kingdom", "Finland", "New Zealand", "Germany", "Gambia", "Mozambique",
-    "Canada", "Mexico", "Brazil"
-    ]}}
-  ],
-  "selection": {
-      "hover": {
-        "type": "single",
-        "on": "mouseover",
-        "empty": "all",
-        "fields": ["Country"],
-        "init": {"Country": "Australia"}
+  "height": 300,
+  "encoding": {"x": {"field": "Year", "type": "quantitative"}},
+  "transform": [{"filter": {
+        "field": "Country",
+        "oneOf": [
+          "Australia",
+          "Greece",
+          "Japan",
+          "China",
+          "United Kingdom",
+          "Finland",
+          "New Zealand",
+          "Germany",
+          "Gambia",
+          "Mozambique",
+          "Canada",
+          "Mexico",
+          "Brazil",
+          "Chad"
+        ]
+      }}],
+  "layer": [
+    {
+      "encoding": {
+        "color": {"field": "Country", "type": "nominal"},
+        "y": {"field": "Education", "type": "quantitative", "title": "Avg. Years of Education"}
+      },
+      "layer": [
+        {"mark": "line"},
+        {"transform": [{"filter": {"selection": "hover"}}], "mark": "point"}
+      ]
+    },
+    {
+      "transform": [{"pivot": "Country", "value": "Education", "groupby": ["Year"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.3, "selection": "hover"},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "Australia", "type": "quantitative"},
+          {"field": "Canada", "type": "quantitative"},
+          {"field": "Japan", "type": "quantitative"},
+          {"field": "Chad", "type": "quantitative"},
+          {"field": "United Kingdom", "type": "quantitative"},
+          {"field": "Brazil", "type": "quantitative"}
+        ]
+      },
+      "selection": {
+        "hover": {
+          "type": "single",
+          "fields": ["Year"],
+          "nearest": true,
+          "on": "mouseover",
+          "empty": "none",
+          "clear": "mouseout"
+        }
       }
-    },
-  "encoding": {
-    "x": {"field": "Year", "type": "quantitative"},
-    "y": {"field": "Education", "type": "quantitative", "title" : "Avg. Years of Education"},
-    "color": {
-      "condition": {
-        "selection": "hover",
-        "field":"Country",
-        "type":"nominal",
-        "legend": null
-      },
-      "value": "grey"
-    },
-    "opacity": {
-      "condition": {
-        "selection": "hover",
-        "value": 1
-      },
-      "value": 0.2
     }
-  }
+  ]
 }
